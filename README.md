@@ -2,10 +2,10 @@
   <img src="https://media.giphy.com/media/7OMR3y1E9QeYsr9olS/giphy.gif" width="150"/>
   <div id="badges">
     <a href="https://www.youtube.com/@ThePixsID">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" />
     </a>
     <a href="https://twitter.com/ThePixID">
-      <img alt="Static Badge" src="https://img.shields.io/badge/My%20Twitter-brightgreen?style=for-the-badge&logo=X&logoColor=white&labelColor=black&color=black"
+      <img alt="Static Badge" src="https://img.shields.io/badge/My%20Twitter-brightgreen?style=for-the-badge&logo=X&logoColor=white&labelColor=black&color=black" />
     </a>
   </div>
   <h1>Hello there👋</h1>
