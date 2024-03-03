@@ -1,5 +1,7 @@
-<h1 align="center">console.log("Hello hacker, I'm Pix")</h1>
-<h3 align="center">A fullstack developer from the earth</h3>
+<div align="center">
+  <h1><img src="https://readme-typing-svg.herokuapp.com?font=JetBrainsMono+NF&weight=700&duration=1000&pause=1000&center=true&random=true&width=435&height=30&lines=console.log(%22Hello+hacker%2C+I'm+Pix%22)" alt="Typing SVG" /></h1>
+  <h3>A fullstack developer from the earth</h3>
+</div>
 
 - 🌱 I’m currently learning **Lit and Golang**
 
